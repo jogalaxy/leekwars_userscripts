@@ -1,1 +1,1 @@
-"# Leekwars Userscripts" 
+# Leekwars Userscripts
